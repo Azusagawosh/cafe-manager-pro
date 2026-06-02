@@ -136,8 +136,8 @@
     }
   }
 
-  @media (max-width: 1024px) {
-    margin-top: 20px;
+  @media (max-width: 1024px) http://localhost:5173/{
+    margin-top: 20px;http://localhost:5173/
     flex-wrap: wrap;
     justify-content: center;
 
